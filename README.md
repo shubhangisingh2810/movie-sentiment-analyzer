@@ -1,7 +1,3 @@
-Creating a professional and informative GitHub README is essential for any project. Here is a comprehensive README.md file structure for your **Movie Sentiment Analyzer** project.
-
------
-
 # 🎬 Movie Sentiment Analyzer
 
 [](https://www.python.org/)
