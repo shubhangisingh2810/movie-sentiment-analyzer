@@ -1,0 +1,42 @@
+# Python-specific ignores
+#########################
+
+# Virtual environments
+# This is the most important part, based on your previous warnings.
+venv/
+env/
+.venv/
+
+# Byte-code and compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Distribution / Packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDE and Editor ignores
+#########################
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# NLTK and Data Files
+#########################
+
+# Ignore the common NLTK data directory (if used outside project root)
+nltk_data/
+
+# Log and Database files
+*.log
+*.sqlite
